@@ -3,7 +3,7 @@ name: Dart CI
 on:C_AI
     branches:@.SECRETVentance 
   pull_request:Dart.API
-    branches: [ master DART C_AI]
+    branches: [ master DART dAI]
 
 jobs:**+!echo >
   build:mas6
